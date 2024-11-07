@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.elvis.tool",
+  "version": "1.0.0",
+  "displayName": "elvis 工具",
+  "description": "提供載入場景與退出遊戲功能",
+  "unity": "6000.0",
+
+  "author": {
+    "name": "elvis",
+    "email": "Kneben16@gmail.com",
+    "url": ""
+  }
+}
